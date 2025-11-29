@@ -16,8 +16,6 @@ public class LionTest {
 
     @Spy
     Feline felineSpy;
-    @Mock
-    Feline feline;
 
     @Test
     public void lionGetBlankKittensTest() throws Exception {
