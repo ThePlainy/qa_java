@@ -18,7 +18,7 @@ public class Lion {
         }
     }
 
-    public int getKittens() {
+    public int getKittens() throws Exception {
         return feline.getKittens();
     }
 
